@@ -1,0 +1,1853 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="BubbleChartID3c842b8b37e0" />
+  <Content type="html">
+  <![CDATA[ 
+   <!-- BubbleChart generated in R 3.5.2 by googleVis 0.6.4 package -->
+<!-- Wed Aug 07 23:17:09 2019 -->
+
+
+<!-- jsHeader -->
+<script type="text/javascript">
+
+
+// jsData 
+function gvisDataBubbleChartID3c842b8b37e0 () {
+var data = new google.visualization.DataTable();
+var datajson =
+[
+ [
+"Javad Parvizi",
+1999,
+5.095588235,
+69.48529412,
+276
+],
+[
+"William H Harris",
+1966,
+3.479674797,
+29.26829268,
+275
+],
+[
+"Michael A Mont",
+1992,
+5.62109375,
+74.609375,
+259
+],
+[
+"Freddie H Fu",
+1980,
+5.5625,
+68.30357143,
+229
+],
+[
+"Robert F LaPrade",
+1990,
+5.722826087,
+68.47826087,
+187
+],
+[
+"Bernard F Morrey",
+1976,
+3.011695906,
+11.69590643,
+183
+],
+[
+"Merrill A Ritter",
+1967,
+3.53164557,
+29.11392405,
+174
+],
+[
+"Robert L Barrack",
+1983,
+4.769736842,
+57.89473684,
+163
+],
+[
+"Harlan C Amstutz",
+1966,
+3.719178082,
+26.02739726,
+153
+],
+[
+"Charles A Engh",
+1971,
+4.218045113,
+37.59398496,
+151
+],
+[
+"Richard A Brand",
+1974,
+1.990654206,
+1.869158879,
+148
+],
+[
+"Henry J Mankin",
+1964,
+3.781021898,
+34.30656934,
+146
+],
+[
+"David C Ring",
+1994,
+3.6796875,
+33.59375,
+140
+],
+[
+"Alexander R Vaccaro",
+1994,
+6.985507246,
+70.28985507,
+139
+],
+[
+"Russell F Warren",
+1975,
+4.432835821,
+49.25373134,
+139
+],
+[
+"Joseph Bernstein",
+1996,
+2.069767442,
+8.139534884,
+137
+],
+[
+"Kevin J Bozic",
+1999,
+4.378787879,
+39.39393939,
+137
+],
+[
+"Jonathan N Grauer",
+1997,
+6.311111111,
+89.62962963,
+135
+],
+[
+"Stephen S Burkhart",
+1979,
+3.141666667,
+15.83333333,
+131
+],
+[
+"John J Callaghan",
+1985,
+4.929133858,
+66.92913386,
+131
+],
+[
+"Young-Hoo Kim",
+1984,
+2.931623932,
+2.564102564,
+131
+],
+[
+"Craig J Della Valle",
+1999,
+5.53968254,
+69.84126984,
+129
+],
+[
+"Daniel J Berry",
+1991,
+4.362068966,
+50,
+127
+],
+[
+"Nicola Maffulli",
+1991,
+4.461538462,
+50.42735043,
+121
+],
+[
+"Benjamin G Domb",
+2004,
+5.680672269,
+82.35294118,
+120
+],
+[
+"Maurilio Marcacci",
+1991,
+7.457627119,
+98.30508475,
+118
+],
+[
+"James N Weinstein",
+1983,
+5.9375,
+64.28571429,
+118
+],
+[
+"Richard H Rothman",
+1965,
+4.637931034,
+57.75862069,
+117
+],
+[
+"Sung-Jae Kim",
+1994,
+4.051724138,
+37.93103448,
+116
+],
+[
+"Leo A Whiteside",
+1977,
+2.477272727,
+5.681818182,
+116
+],
+[
+"Mohit Bhandari",
+1999,
+7.798245614,
+55.26315789,
+115
+],
+[
+"Andrew A Amis",
+1984,
+4.320754717,
+49.05660377,
+111
+],
+[
+"Allan E Gross",
+1970,
+4.723809524,
+60.95238095,
+111
+],
+[
+"Yukihide Iwamoto",
+1997,
+6.234234234,
+92.79279279,
+111
+],
+[
+"David S Bradford",
+1969,
+3.495049505,
+28.71287129,
+110
+],
+[
+"Chitranjan S Ranawat",
+1968,
+4.038095238,
+39.04761905,
+107
+],
+[
+"Frank R Noyes",
+1971,
+2.971698113,
+13.20754717,
+107
+],
+[
+"Fares S Haddad",
+1995,
+3.873786408,
+31.06796117,
+106
+],
+[
+"David W Murray",
+1989,
+5.62745098,
+64.70588235,
+105
+],
+[
+"Robert B Winter",
+1969,
+2.906976744,
+15.11627907,
+104
+],
+[
+"Thay Q Lee",
+1994,
+5.495145631,
+83.49514563,
+103
+],
+[
+"Masahiro Kurosaka",
+1987,
+7.019417476,
+92.23300971,
+103
+],
+[
+"Lawrence D Dorr",
+1974,
+3.510869565,
+30.43478261,
+102
+],
+[
+"Jeffrey C Wang",
+1998,
+6.39,
+80,
+102
+],
+[
+"Michael D Ries",
+1986,
+3.081395349,
+20.93023256,
+101
+],
+[
+"Augusto Sarmiento",
+1963,
+2.810810811,
+18.91891892,
+99
+],
+[
+"Vincenzo Denaro",
+2001,
+6.090909091,
+87.87878788,
+99
+],
+[
+"Franklin H Sim",
+1970,
+4.154639175,
+38.1443299,
+99
+],
+[
+"Peter O Newton",
+1996,
+6.367346939,
+72.44897959,
+98
+],
+[
+"Keith H Bridwell",
+1986,
+6.088888889,
+70,
+98
+],
+[
+"Marshall R Urist",
+1964,
+2.719101124,
+11.23595506,
+97
+],
+[
+"Michael G Fehlings",
+1995,
+7.020833333,
+72.91666667,
+97
+],
+[
+"Brian J Cole",
+1998,
+5.75,
+67.70833333,
+96
+],
+[
+"John C Clohisy",
+1992,
+5.520833333,
+72.91666667,
+96
+],
+[
+"David S Hungerford",
+1978,
+3.802197802,
+30.76923077,
+96
+],
+[
+"Paul F Lachiewicz",
+1981,
+2.379310345,
+6.896551724,
+93
+],
+[
+"Jay R Lieberman",
+1988,
+4.107142857,
+46.42857143,
+92
+],
+[
+"Mitsuo Ochi",
+1993,
+6.266666667,
+88.88888889,
+90
+],
+[
+"Tae Kyun Kim",
+2001,
+4.545454545,
+72.72727273,
+89
+],
+[
+"Thomas P Sculco",
+1974,
+4.530864198,
+50.61728395,
+89
+],
+[
+"Seth S Leopold",
+1999,
+2.7,
+25,
+88
+],
+[
+"Frederick A Matsen",
+1974,
+3.951807229,
+40.96385542,
+88
+],
+[
+"Joseph M Lane",
+1973,
+4.1,
+38.75,
+88
+],
+[
+"Howard S An",
+1987,
+5.465116279,
+67.44186047,
+88
+],
+[
+"Kern Singh",
+2002,
+6.310344828,
+77.01149425,
+87
+],
+[
+"Paul C McAfee",
+1981,
+5.19047619,
+63.0952381,
+87
+],
+[
+"Manohar M Panjabi",
+1973,
+4.195121951,
+39.02439024,
+86
+],
+[
+"Scott A Rodeo",
+1990,
+5.6625,
+73.75,
+86
+],
+[
+"Christian Gerber",
+1981,
+4.05952381,
+38.0952381,
+85
+],
+[
+"Cornelis Niek van Dijk",
+1995,
+4.670588235,
+44.70588235,
+85
+],
+[
+"Steven R Garfin",
+1977,
+4.44047619,
+45.23809524,
+85
+],
+[
+"Clifford W Colwell",
+1985,
+4.5875,
+46.25,
+84
+],
+[
+"Eduardo A Salvati",
+1971,
+4.869047619,
+52.38095238,
+84
+],
+[
+"James D Kang",
+1991,
+5.430379747,
+62.02531646,
+84
+],
+[
+"Reinhold Ganz",
+1976,
+4.060240964,
+37.34939759,
+83
+],
+[
+"Kazuhisa Takahashi",
+1985,
+11.54878049,
+87.80487805,
+83
+],
+[
+"Matthew P Abdel",
+2010,
+5.626666667,
+72,
+82
+],
+[
+"Jorge O Galante",
+1975,
+5.24691358,
+71.60493827,
+82
+],
+[
+"Richard D Scott",
+1975,
+2.723684211,
+3.947368421,
+81
+],
+[
+"Marc J Philippon",
+2003,
+5.1125,
+60,
+80
+],
+[
+"Jon J P Warner",
+1987,
+4.076923077,
+34.61538462,
+80
+],
+[
+"Robert B Bourne",
+1978,
+3.944444444,
+40.27777778,
+80
+],
+[
+"Peter J Millett",
+1999,
+4.848101266,
+59.49367089,
+80
+],
+[
+"Kai-Nan An",
+1983,
+5.037974684,
+59.49367089,
+80
+],
+[
+"Hideki Yoshikawa",
+1982,
+6.4625,
+93.75,
+80
+],
+[
+"Shanmuganathan Rajasekaran",
+1987,
+4.232876712,
+34.24657534,
+79
+],
+[
+"Robert T Trousdale",
+1992,
+4.142857143,
+40.25974026,
+79
+],
+[
+"Douglas W Jackson",
+1971,
+2.727272727,
+10.60606061,
+79
+],
+[
+"Olufemi R Ayeni",
+2011,
+6.666666667,
+91.02564103,
+79
+],
+[
+"John P Dormans",
+1994,
+4.526315789,
+55.26315789,
+79
+],
+[
+"Richard A Deyo",
+1983,
+4.838235294,
+45.58823529,
+78
+],
+[
+"Andrew D Pearle",
+2006,
+5.441558442,
+74.02597403,
+78
+],
+[
+"Bernard R Bach",
+1985,
+4.635135135,
+54.05405405,
+78
+],
+[
+"John H Healey",
+1984,
+3.873239437,
+38.02816901,
+78
+],
+[
+"Lawrence G Lenke",
+1992,
+5.106666667,
+53.33333333,
+78
+],
+[
+"John C Y Leong",
+1979,
+4.584415584,
+38.96103896,
+77
+],
+[
+"Arlen D Hanssen",
+1987,
+3.362318841,
+21.73913043,
+77
+],
+[
+"Yong Qiu",
+2007,
+7.545454545,
+97.4025974,
+77
+],
+[
+"Paul E Beaulé",
+2000,
+5.090909091,
+48.05194805,
+77
+],
+[
+"James W Pritchett",
+1980,
+1.214285714,
+0,
+76
+],
+[
+"Richard C Johnston",
+1969,
+4.810810811,
+62.16216216,
+76
+],
+[
+"Anne F Mannion",
+1994,
+6.053333333,
+57.33333333,
+75
+],
+[
+"Seiji Ohtori",
+1999,
+14.93333333,
+94.66666667,
+75
+],
+[
+"Christopher D Harner",
+1989,
+4.814285714,
+64.28571429,
+74
+],
+[
+"Jon Karlsson",
+1988,
+5.808219178,
+72.60273973,
+74
+],
+[
+"Jesse B Jupiter",
+1978,
+3.375,
+22.22222222,
+74
+],
+[
+"Richard S Laskin",
+1971,
+2.104166667,
+10.41666667,
+73
+],
+[
+"Andrew J Schoenfeld",
+2010,
+4.984375,
+62.5,
+73
+],
+[
+"Max Aebi",
+1986,
+3.333333333,
+21.66666667,
+73
+],
+[
+"Thomas P Schmalzried",
+1991,
+4,
+33.33333333,
+73
+],
+[
+"Hans-Joachim Wilke",
+1991,
+5.043478261,
+62.31884058,
+72
+],
+[
+"Stuart L Weinstein",
+1975,
+3.152542373,
+16.94915254,
+72
+],
+[
+"Rafael J Sierra",
+2000,
+4.971428571,
+55.71428571,
+72
+],
+[
+"Stuart B Goodman",
+1985,
+4.029411765,
+39.70588235,
+72
+],
+[
+"Benjamin K Potter",
+2004,
+3.75,
+44.23076923,
+71
+],
+[
+"Shane J Nho",
+2007,
+6.704225352,
+95.77464789,
+71
+],
+[
+"Edmund Y S Chao",
+1972,
+3.901408451,
+33.8028169,
+71
+],
+[
+"John P Kostuik",
+1970,
+3.228070175,
+24.56140351,
+70
+],
+[
+"Naoki Ishiguro",
+2004,
+8.628571429,
+94.28571429,
+70
+],
+[
+"Paul D Sponseller",
+1984,
+5.353846154,
+55.38461538,
+69
+],
+[
+"William J Hozack",
+1988,
+4.869565217,
+65.2173913,
+69
+],
+[
+"Stefano Zaffagnini",
+1996,
+9.176470588,
+89.70588235,
+69
+],
+[
+"K. Donald Shelbourne",
+1981,
+2.779411765,
+5.882352941,
+69
+],
+[
+"Aaron J Krych",
+2008,
+6.31884058,
+95.65217391,
+69
+],
+[
+"Scott D Boden",
+1987,
+3.672131148,
+34.42622951,
+69
+],
+[
+"Douglas A Dennis",
+1986,
+4.083333333,
+50,
+68
+],
+[
+"Adolph V Lombardi",
+1988,
+4.5625,
+53.125,
+68
+],
+[
+"James G Wright",
+1989,
+4.819672131,
+34.42622951,
+67
+],
+[
+"Gunnar B J Andersson",
+1972,
+3.967741935,
+30.64516129,
+67
+],
+[
+"Khaled J Saleh",
+1994,
+5.484848485,
+69.6969697,
+67
+],
+[
+"David G Lewallen",
+1984,
+4.575757576,
+48.48484848,
+67
+],
+[
+"Steven M Kurtz",
+1998,
+5.696969697,
+71.21212121,
+66
+],
+[
+"Michael J Lee",
+2006,
+4.12,
+52,
+66
+],
+[
+"James A Rand",
+1980,
+2.134615385,
+3.846153846,
+66
+],
+[
+"Christopher L Peters",
+1995,
+4.571428571,
+58.73015873,
+65
+],
+[
+"Nikhil N Verma",
+1999,
+7.153846154,
+90.76923077,
+65
+],
+[
+"Hubert Labelle",
+1986,
+4.876923077,
+58.46153846,
+65
+],
+[
+"Peter S Walker",
+1972,
+3.677419355,
+30.64516129,
+64
+],
+[
+"Nancy E Epstein",
+1980,
+2.12195122,
+7.317073171,
+64
+],
+[
+"John N Insall",
+1967,
+3.5,
+19.35483871,
+64
+],
+[
+"Rick W Wright",
+1998,
+14.38709677,
+54.83870968,
+64
+],
+[
+"Guoan Li",
+2001,
+6.171875,
+87.5,
+64
+],
+[
+"Robert D Fraser",
+1977,
+2.898305085,
+6.779661017,
+64
+],
+[
+"Paul J Gregg",
+1980,
+4.171875,
+32.8125,
+64
+],
+[
+"Emil H Schemitsch",
+1989,
+9.571428571,
+65.07936508,
+64
+],
+[
+"Harry E Rubash",
+1988,
+4.734375,
+54.6875,
+64
+],
+[
+"Hideshige Moriya",
+1990,
+5.921875,
+75,
+64
+],
+[
+"Johan Bellemans",
+1997,
+4.634920635,
+53.96825397,
+63
+],
+[
+"Todd J Albert",
+1991,
+5.483333333,
+65,
+63
+],
+[
+"Eugene J Carragee",
+1991,
+4.054545455,
+32.72727273,
+63
+],
+[
+"Matthew T Provencher",
+1999,
+6.983870968,
+79.03225806,
+63
+],
+[
+"Augustus D Mazzocca",
+2003,
+6.952380952,
+85.71428571,
+63
+],
+[
+"Joseph H Schwab",
+2003,
+6.3,
+75,
+63
+],
+[
+"Henry H Bohlman",
+1978,
+3.333333333,
+23.33333333,
+63
+],
+[
+"Kyung-Hoi Koo",
+1994,
+6.112903226,
+82.25806452,
+63
+],
+[
+"Takashi Nakamura",
+2002,
+5.428571429,
+80.95238095,
+63
+],
+[
+"Anthony A Romeo",
+1996,
+6.344262295,
+78.68852459,
+62
+],
+[
+"Robert G Marx",
+1996,
+4.41509434,
+52.83018868,
+62
+],
+[
+"Hugh U Cameron",
+1972,
+2.4,
+4,
+62
+],
+[
+"Akio Minami",
+1988,
+5.516129032,
+72.58064516,
+62
+],
+[
+"Panagiotis G Korovessis",
+1987,
+3.813559322,
+22.03389831,
+61
+],
+[
+"John B Meding",
+1986,
+4.516666667,
+56.66666667,
+61
+],
+[
+"Richard Iorio",
+1994,
+4.830508475,
+54.23728814,
+61
+],
+[
+"Geoffrey H Westrich",
+1994,
+5.278688525,
+67.21311475,
+61
+],
+[
+"Christopher Michael Robinson",
+1992,
+3.966101695,
+32.20338983,
+61
+],
+[
+"William E Garrett",
+1984,
+4.293103448,
+41.37931034,
+61
+],
+[
+"Keith D K Luk",
+1986,
+4.362068966,
+34.48275862,
+61
+],
+[
+"Edward N Hanley",
+1976,
+4.440677966,
+42.37288136,
+61
+],
+[
+"Lars Engebretsen",
+1990,
+5.516666667,
+66.66666667,
+61
+],
+[
+"William C Hutton",
+1978,
+4.262295082,
+42.62295082,
+61
+],
+[
+"William L Healy",
+1983,
+3.528301887,
+30.18867925,
+60
+],
+[
+"Rodney K Beals",
+1966,
+1.880952381,
+0,
+60
+],
+[
+"James R Andrews",
+1977,
+4.526315789,
+40.35087719,
+60
+],
+[
+"Joseph P Iannotti",
+1985,
+4.75862069,
+51.72413793,
+60
+],
+[
+"Michael A Simon",
+1973,
+3.098039216,
+21.56862745,
+60
+],
+[
+"Giles R Scuderi",
+1987,
+3.781818182,
+32.72727273,
+60
+],
+[
+"Asheesh Bedi",
+2008,
+5.593220339,
+64.40677966,
+59
+],
+[
+"Robert H Cofield",
+1979,
+3.5,
+27.77777778,
+59
+],
+[
+"Paul A Anderson",
+1988,
+4.618181818,
+36.36363636,
+59
+],
+[
+"William F Enneking",
+1966,
+2.924528302,
+16.98113208,
+58
+],
+[
+"Thomas K Fehring",
+1984,
+3.8,
+40,
+58
+],
+[
+"Leah Y Carreon",
+1997,
+5.172413793,
+65.51724138,
+58
+],
+[
+"Gerard A Engh",
+1971,
+3.12962963,
+14.81481481,
+58
+],
+[
+"Edward G McFarland",
+1986,
+4.403508772,
+57.89473684,
+58
+],
+[
+"John G Kennedy",
+1998,
+5.5,
+65.51724138,
+58
+],
+[
+"Bryan T Kelly",
+1996,
+5.068965517,
+62.06896552,
+58
+],
+[
+"Steven D Glassman",
+1990,
+5.465517241,
+70.68965517,
+58
+],
+[
+"Robert C Mulholland",
+1966,
+2.230769231,
+7.692307692,
+58
+],
+[
+"Bruce D Beynnon",
+1988,
+5.859649123,
+73.68421053,
+57
+],
+[
+"Kiyoshi Kaneda",
+1983,
+4.571428571,
+46.42857143,
+57
+],
+[
+"Stephen D Cook",
+1982,
+4.649122807,
+50.87719298,
+57
+],
+[
+"Dieter Grob",
+1985,
+3.66,
+32,
+57
+],
+[
+"Sandro Giannini",
+1993,
+6.192982456,
+94.73684211,
+57
+],
+[
+"Volker Musahl",
+2002,
+7.875,
+92.85714286,
+57
+],
+[
+"Robert H Brophy",
+2005,
+8.4,
+52.72727273,
+57
+],
+[
+"Jon K Sekiya",
+1999,
+3.890909091,
+30.90909091,
+57
+],
+[
+"Cecil H Rorabeck",
+1975,
+3.679245283,
+37.73584906,
+57
+],
+[
+"Andrew J Carr",
+1988,
+4.5,
+38.46153846,
+56
+],
+[
+"Jiri Dvorak",
+1987,
+5,
+53.57142857,
+56
+],
+[
+"Mark W Pagnano",
+1995,
+3.87037037,
+31.48148148,
+56
+],
+[
+"Victor M Goldberg",
+1972,
+3.690909091,
+27.27272727,
+56
+],
+[
+"Toshihiko Yamashita",
+1990,
+6.375,
+83.92857143,
+56
+],
+[
+"Gwo-Chin Lee",
+2002,
+3.941176471,
+33.33333333,
+56
+],
+[
+"Christopher P Ames",
+2005,
+12.23214286,
+92.85714286,
+56
+],
+[
+"Carlos J Lavernia",
+1995,
+3.358490566,
+16.98113208,
+55
+],
+[
+"Joseph D Zuckerman",
+1984,
+4.283018868,
+37.73584906,
+55
+],
+[
+"Joshua J Jacobs",
+1989,
+4.764705882,
+52.94117647,
+55
+],
+[
+"Jacquelin Perry",
+1968,
+3.382978723,
+25.53191489,
+55
+],
+[
+"Keith L Markolf",
+1972,
+3.685185185,
+27.77777778,
+55
+],
+[
+"Richard J Hawkins",
+1975,
+3.763636364,
+34.54545455,
+55
+],
+[
+"Henrik Malchau",
+1994,
+5.454545455,
+74.54545455,
+55
+],
+[
+"Brett D Owens",
+2001,
+4.5,
+48.07692308,
+55
+],
+[
+"William J Maloney",
+1989,
+3.87755102,
+40.81632653,
+55
+],
+[
+"Vincent D Pellegrini",
+1981,
+4.725490196,
+52.94117647,
+55
+],
+[
+"James H Lubowitz",
+1993,
+3.375,
+18.75,
+55
+],
+[
+"Clive P Duncan",
+1977,
+4.363636364,
+38.18181818,
+55
+],
+[
+"Hiroaki Nakamura",
+2000,
+8.327272727,
+94.54545455,
+55
+],
+[
+"Antonia F Chen",
+1995,
+5.452830189,
+73.58490566,
+54
+],
+[
+"Thomas H Mallory",
+1972,
+3.023809524,
+21.42857143,
+54
+],
+[
+"Mininder S Kocher",
+1996,
+4.666666667,
+39.21568627,
+53
+],
+[
+"Bruce Reider",
+1979,
+3.05,
+22.5,
+53
+],
+[
+"Carl T Brighton",
+1966,
+3.4,
+20,
+53
+],
+[
+"Kenneth A Krackow",
+1980,
+2.9375,
+12.5,
+53
+],
+[
+"Brian C Werner",
+2011,
+4.549019608,
+45.09803922,
+53
+],
+[
+"Peter V Giannoudis",
+1999,
+4.173076923,
+42.30769231,
+53
+],
+[
+"John Charnley",
+1966,
+2.181818182,
+2.272727273,
+53
+],
+[
+"Bronek M Boszczyk",
+2000,
+4.5,
+50,
+53
+],
+[
+"Jeffrey N Katz",
+1991,
+5.941176471,
+72.54901961,
+53
+],
+[
+"Christopher M Bono",
+2000,
+5.066666667,
+55.55555556,
+52
+],
+[
+"Jeffrey C Lotz",
+1990,
+5.6,
+62,
+52
+],
+[
+"Marc F Swiontkowski",
+1984,
+3.456521739,
+23.91304348,
+52
+],
+[
+"Robert A Hart",
+1997,
+6.125,
+47.91666667,
+52
+],
+[
+"Wolf Petersen",
+1999,
+5.098039216,
+72.54901961,
+52
+],
+[
+"Jess H Lonner",
+1995,
+3.980392157,
+39.21568627,
+52
+],
+[
+"Michael Leunig",
+1996,
+4.265306122,
+53.06122449,
+52
+],
+[
+"Harry N Herkowitz",
+1982,
+3.446808511,
+23.40425532,
+52
+],
+[
+"Augustus A White",
+1971,
+2.795454545,
+11.36363636,
+51
+],
+[
+"Stefano Boriani",
+1983,
+5.8125,
+70.83333333,
+51
+],
+[
+"Vincent M Arlet",
+1998,
+3.833333333,
+26.19047619,
+51
+],
+[
+"Paul Tornetta",
+1996,
+3.6875,
+27.08333333,
+51
+],
+[
+"Charles G Fisher",
+2002,
+7.058823529,
+58.82352941,
+51
+],
+[
+"Robert M Meneghini",
+2003,
+3.833333333,
+39.58333333,
+51
+],
+[
+"John E Hall",
+1967,
+3.24,
+12,
+51
+],
+[
+"Malcolm H Pope",
+1977,
+4.163265306,
+40.81632653,
+51
+],
+[
+"Richard H Gelberman",
+1974,
+4.28,
+44,
+51
+],
+[
+"Jin Hwan Ahn",
+1999,
+4.411764706,
+52.94117647,
+51
+],
+[
+"John A Ogden",
+1972,
+2.725,
+10,
+51
+],
+[
+"Shuichi Matsuda",
+1997,
+6.291666667,
+81.25,
+51
+],
+[
+"Frederick S Kaplan",
+1986,
+5.019607843,
+64.70588235,
+51
+],
+[
+"Nobuhiko Sugano",
+1992,
+5.588235294,
+88.23529412,
+51
+] 
+];
+data.addColumn('string','uniqueID');
+data.addColumn('number','firstYear');
+data.addColumn('number','meannum');
+data.addColumn('number','perov4');
+data.addColumn('number','allCount');
+data.addRows(datajson);
+return(data);
+}
+
+
+// jsDrawChart
+function drawChartBubbleChartID3c842b8b37e0() {
+var data = gvisDataBubbleChartID3c842b8b37e0();
+var options = {};
+options["height"] = 850;
+options["bubble"] = {textStyle:{color: 'none'}};
+
+
+    var chart = new google.visualization.BubbleChart(
+    document.getElementById('BubbleChartID3c842b8b37e0')
+    );
+    chart.draw(data,options);
+    
+
+}
+  
+
+
+// jsDisplayChart
+(function() {
+var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+var chartid = "corechart";
+  
+// Manually see if chartid is in pkgs (not all browsers support Array.indexOf)
+var i, newPackage = true;
+for (i = 0; newPackage && i < pkgs.length; i++) {
+if (pkgs[i] === chartid)
+newPackage = false;
+}
+if (newPackage)
+  pkgs.push(chartid);
+  
+// Add the drawChart function to the global list of callbacks
+callbacks.push(drawChartBubbleChartID3c842b8b37e0);
+})();
+function displayChartBubbleChartID3c842b8b37e0() {
+  var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+  var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+  window.clearTimeout(window.__gvisLoad);
+  // The timeout is set to 100 because otherwise the container div we are
+  // targeting might not be part of the document yet
+  window.__gvisLoad = setTimeout(function() {
+  var pkgCount = pkgs.length;
+  google.load("visualization", "1", { packages:pkgs, callback: function() {
+  if (pkgCount != pkgs.length) {
+  // Race condition where another setTimeout call snuck in after us; if
+  // that call added a package, we must not shift its callback
+  return;
+}
+while (callbacks.length > 0)
+callbacks.shift()();
+} });
+}, 100);
+}
+
+
+// jsFooter
+</script>
+
+
+<!-- jsChart -->  
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartBubbleChartID3c842b8b37e0"></script>
+
+
+<!-- divChart -->
+  
+<div id="BubbleChartID3c842b8b37e0" 
+  style="width: 500; height: 850;">
+</div>
+
+  ]]> 
+  </Content>
+</Module>
